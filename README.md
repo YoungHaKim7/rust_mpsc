@@ -9,3 +9,9 @@
 # 관련 project
 - https://github.com/YoungHaKim7/pretzelhammer_s_Rust_blog_Education
 - https://github.com/YoungHaKim7/Rust_BackEnd_Web_Dev
+
+- mpsc
+  - https://doc.rust-lang.org/std/sync/mpsc/
+
+- mpmc
+  - https://github.com/crossbeam-rs/crossbeam
